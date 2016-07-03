@@ -6,6 +6,7 @@ public class TestClass {
 		
 		System.out.println("Hello");
 		System.out.println("Hello Test 3");
+		System.out.println("Hello Merge 2");
 	}
 
 }
