@@ -33,6 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		System.out.println("test1");
+		System.out.println("addSecondsysout test2");
 		
 		return "home";
 	}
